@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @megalorddestroyer
-- 👀 I’m learning coding
-- 
+- 👀 Web dev 
 
 <!---
 megalorddestroyer/megalorddestroyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
